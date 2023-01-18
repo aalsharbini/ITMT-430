@@ -1,17 +1,35 @@
-# Jeremy Hajek
+# aalsharbini
 
-![Family](images/family.png "Family")
+## Ala Alsharbini 
 
-![Prince of all Sayans](images/vegeta.jpg "Vegeta")
+![A](images/al.JPG) 
+
+![A](images/ala.JPG) 
+
 
 ## Where are you from?
 
-From the Chicago suburbs, Lombard and Glen Ellyn (30 miles west of campus).
+I'm from middle east (Jordan), I live at Oaklawn.
+
 
 ## IT Interest
 
-My background is in IT Orchestration and Operations.  I had been an IT manager before previously becoming a professor in 2012.  I came to the realization that cloud native development and deployment (DevOps) was the logical outcome of the Unix way of thinking.
+I don't know alot about IT, but I'm looking to be in the Cyber Security or Software fileld.
+
+
 
 ## Something Interesting About You
 
-It doesn't look like it now, but I played American Football in high school and junior college.  I managed to register one tackle to my credit at the NCIA level - I also was the second person to graduate from the ITM degree as an undergrad in 2004.
+I'm barber, so I love cutting hair.
+
+![A](images/cut.jpg)
+
+
+
+I played soccer in high school, I like to watch soccer games, and i like cars. 
+
+
+![A](images/alaa.jpg)
+
+
+![A](images/carr.jpg)
