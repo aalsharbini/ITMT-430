@@ -2,9 +2,9 @@
 
 ## Ala Alsharbini 
 
-![A](images/al.JPG) 
+![A](images/al.jpg) 
 
-![A](images/ala.JPG) 
+![A](images/ala.jpg) 
 
 
 ## Where are you from?
